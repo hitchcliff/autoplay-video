@@ -5,8 +5,7 @@
 1. Simple include the files
 
 ```
-<script src="./autoplay-video.js"></script>
-<script src="./app.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hitchcliff/autoplay-video/autoplay-video.js"></script>
 ```
 
 2. Instantiate in App.js
@@ -23,12 +22,10 @@ autoplay.play();
 
 3. Do a hard refresh to see the results
 
-## If you only want to use the JS
-
-## It is hosted in:
+Please check this folder:
 
 ```
-
+\example
 ```
 
 ### Thank you
