@@ -31,7 +31,7 @@ class AutoplayVideo {
   }
 
   _delectIfPaused() {
-    // this._videoEl.pause();
+    // this._videoEl.pause(); // toggle to see GIF
     if (this._videoEl.played && window.innerWidth >= 768) return;
 
     this._img = document.createElement("img");
