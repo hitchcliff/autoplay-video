@@ -1,6 +1,6 @@
 # Autoplay Video for Modern Browsers
 
-## Installation
+## Example Installation
 
 1. Simple include the files
 
