@@ -5,7 +5,7 @@
 1. Import the files
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/hitchcliff/autoplay-video/autoplay-video.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hitchcliff/autoplay-video/index.js"></script>
 ```
 
 2. Instantiate in App.js
@@ -20,7 +20,7 @@ autoplay.srcDesktopMp4 = "https://www.w3schools.com/html/mov_bbb.mp4";
 autoplay.play();
 ```
 
-3. Do a hard refresh to see the results
+### Do a hard refresh to see the results
 
 Please check this folder:
 
