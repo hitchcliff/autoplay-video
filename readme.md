@@ -8,7 +8,7 @@
 <script src="https://cdn.jsdelivr.net/gh/hitchcliff/autoplay-video/index.js"></script>
 ```
 
-2. Instantiate in App.js
+2. Instantiate
 
 ```
 const autoplay = new AutoplayVideo();
