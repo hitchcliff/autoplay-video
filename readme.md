@@ -2,7 +2,7 @@
 
 ## Example Installation
 
-1. Simple include the files
+1. Import the files
 
 ```
 <script src="https://cdn.jsdelivr.net/gh/hitchcliff/autoplay-video/autoplay-video.js"></script>
