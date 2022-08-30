@@ -27,5 +27,3 @@ Please check this folder:
 ```
 \example
 ```
-
-### Thank you
